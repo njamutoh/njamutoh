@@ -1,8 +1,10 @@
 <img width="1300" height="850" alt="Bertrand Njamutoh GitHub Banner" src="https://github.com/user-attachments/assets/8994a2d7-49e0-4893-b1d9-135698e51389" />
 
 
+<br>
+
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=900&size=42&duration=1200&pause=400&color=2563EB&repeat=true&width=900&lines=Hi+There!;I'm+Bertrand+Njamutoh.;A+Cloud+DevOps+Engineer!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=900&size=42&duration=1200&pause=400&color=2563EB&repeat=true&width=1000&lines=Hi+There!;I'm+Bertrand+Njamutoh.;I'm+Bertrand+Njamutoh.;A+Cloud+DevOps+Engineer!;A+Cloud+DevOps+Engineer!" alt="Typing SVG" />
 </p>
 
 <img align="right" alt="DevOps animation" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
