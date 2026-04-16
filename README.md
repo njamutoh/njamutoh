@@ -1,8 +1,6 @@
 <img width="1300" height="850" alt="Bertrand Njamutoh GitHub Banner" src="https://github.com/user-attachments/assets/8994a2d7-49e0-4893-b1d9-135698e51389" />
 
 
-<br>
-
 <br><br>
 
 <p align="left">
