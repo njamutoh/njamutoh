@@ -2,8 +2,8 @@
 
 ---
 
-<h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=900&size=42&vCenter=true&width=900&height=70&duration=1200&pause=400&color=2563EB&lines=Hi+There!;I'm+Bertrand+Njamutoh.;I'm+Bertrand+Njamutoh.;A+Cloud+DevOps+Engineer!;A+Cloud+DevOps+Engineer!" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=900&size=42&center=true&vCenter=true&width=900&height=70&duration=1200&pause=400&color=2563EB&lines=Hi+There!;I'm+Bertrand+Njamutoh.;I'm+Bertrand+Njamutoh.;A+Cloud+DevOps+Engineer!;A+Cloud+DevOps+Engineer!" />
 </h1>
 
 <img align="right" alt="DevOps animation" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
