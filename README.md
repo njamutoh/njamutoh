@@ -65,7 +65,7 @@ Built a production-ready three-tier containerized application architecture on AW
 
 ## Certifications
 
-- RHCSA
+- RHCSA - Redhat Certified System Administrator
 - AWS Certified Solutions Architect – Associate
 - AWS Certified SysOps Administrator – Associate
 - AWS Certified AI Practitioner
