@@ -1,3 +1,7 @@
+
+<img width="1536" height="1024" alt="ChatGPT Image Apr 16, 2026, 12_38_20 AM" src="https://github.com/user-attachments/assets/70df6177-de37-471e-ba97-96fc8e4e3c78" />
+
+
 # 💫 About Me:
 🚀 DevOps/SRE with 3+ years of experience turning fragile systems into 99.9% reliable AWS cloud infrastructure.
 🛠️ Expert in IaC (Terraform/Ansible), CI/CD, and Kubernetes, with a focus on full-stack observability (Datadog/Grafana) that boosted efficiency by 50%.
