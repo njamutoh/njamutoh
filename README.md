@@ -3,7 +3,7 @@
 <h1 align="left">Bertrand Njamutoh</h1>
 <h3 align="left">Cloud DevOps Engineer</h3>
 
-<img align="right" alt="DevOps animation" width="300" src="PASTE-YOUR-GIF-LINK-HERE" />
+<img align="right" alt="DevOps animation" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 I build production-focused cloud infrastructure, CI/CD pipelines, and observability systems that improve reliability, speed up troubleshooting, and make deployments more repeatable.
 
