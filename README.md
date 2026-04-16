@@ -1,6 +1,4 @@
-
-<img width="1300" height="900" alt="ChatGPT Image Apr 16, 2026, 12_55_51 AM" src="https://github.com/user-attachments/assets/2dd0bb5b-c887-4f9d-9583-f3c030c79e89" />
-
+<img width="1300" height="850" alt="ChatGPT Image Apr 16, 2026, 12_48_26 AM" src="https://github.com/user-attachments/assets/8994a2d7-49e0-4893-b1d9-135698e51389" />
 
 
 # 💫 About Me:
