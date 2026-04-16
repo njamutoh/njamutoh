@@ -1,8 +1,9 @@
 <img width="1300" height="850" alt="Bertrand Njamutoh GitHub Banner" src="https://github.com/user-attachments/assets/8994a2d7-49e0-4893-b1d9-135698e51389" />
 
 <h1 align="left">Bertrand Njamutoh</h1>
+
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&color=000000&lines=Cloud+DevOps+Engineer&center=false&vCenter=true&width=450" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=000000&lines=Cloud+DevOps+Engineer&center=false&vCenter=true&width=400" />
 </p>
 
 <img align="right" alt="DevOps animation" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
