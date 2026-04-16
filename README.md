@@ -3,7 +3,7 @@
 <h1 align="left">Bertrand Njamutoh</h1>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=000000&lines=Cloud+DevOps+Engineer&center=false&vCenter=true&width=400" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=900&size=38&duration=2200&pause=700&color=2563EB&multiline=true&repeat=true&width=650&height=140&lines=Hi+There!;I'm+Bertrand+Njamutoh;A+Cloud+DevOps+Engineer!" alt="Typing SVG" />
 </p>
 
 <img align="right" alt="DevOps animation" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
