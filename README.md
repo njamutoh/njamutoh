@@ -3,6 +3,8 @@
 
 <br>
 
+<br><br>
+
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=900&size=42&duration=1200&pause=400&color=2563EB&repeat=true&width=1000&lines=Hi+There!;I'm+Bertrand+Njamutoh.;I'm+Bertrand+Njamutoh.;A+Cloud+DevOps+Engineer!;A+Cloud+DevOps+Engineer!" alt="Typing SVG" />
 </p>
