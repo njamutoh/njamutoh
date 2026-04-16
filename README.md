@@ -6,7 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=900&size=42&vCenter=true&width=900&height=70&duration=1600&pause=1200&color=2563EB&lines=Hi+There!;I'm+Bertrand+Njamutoh.;A+Cloud+DevOps+Engineer!" />
 </h1>
 
-<img align="right" alt="DevOps animation" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<p align="center">
+  <img width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</p>
 
 I build production-focused cloud infrastructure, CI/CD pipelines, and observability systems that improve reliability, speed up troubleshooting, and make deployments more repeatable.
 
